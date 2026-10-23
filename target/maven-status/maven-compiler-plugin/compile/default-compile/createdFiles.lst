@@ -1,5 +1,0 @@
-com\tasktrack\App.class
-com\tasktrack\Task.class
-com\tasktrack\DatabaseManager.class
-com\tasktrack\TaskRepository.class
-com\tasktrack\TaskTrackRunner.class
